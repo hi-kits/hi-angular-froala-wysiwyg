@@ -1,6 +1,6 @@
 {
   "name": "hi-angular-froala-wysiwyg",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Privatized hi-angular-froala-wysiwyg for haier app server；for Froala WYSIWYG HTML rich text editor",
   "main": "bundles/angular-froala-wysiwyg.umd.js",
   "module": "index.js",
