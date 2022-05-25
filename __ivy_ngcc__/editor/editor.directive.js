@@ -10,7 +10,7 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 };
 import { NG_VALUE_ACCESSOR } from "@angular/forms";
 import { Directive, ElementRef, EventEmitter, Input, NgZone, Output, forwardRef } from '@angular/core';
-import FroalaEditor from 'froala-editor';
+import FroalaEditor from 'hi-froala-editor';
 var FroalaEditorDirective = /** @class */ (function () {
     function FroalaEditorDirective(el, zone) {
         this.zone = zone;
