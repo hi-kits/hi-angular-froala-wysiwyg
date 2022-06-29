@@ -1,6 +1,6 @@
 {
   "name": "hi-angular-froala-wysiwyg",
-  "version": "1.0.5",
+  "version": "2.1.0",
   "description": "Privatized hi-angular-froala-wysiwyg for haier app server；for Froala WYSIWYG HTML rich text editor",
   "main": "bundles/angular-froala-wysiwyg.umd.js",
   "module": "index.js",
@@ -20,7 +20,7 @@
   "author": "hi-kits",
   "license": "ISC",
   "dependencies": {
-    "hi-froala-editor": "^1.1.0"
+    "hi-froala-editor": "^2.0.0"
   },
   "_args": [
     [
